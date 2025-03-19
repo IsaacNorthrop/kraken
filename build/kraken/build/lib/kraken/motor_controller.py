@@ -28,7 +28,7 @@ class MotorController(Node):
             self.log_file.write("depth,pressure,temperature\n")
         
     while(1):
-        print("cunt")
+        print("shit")
         
 
 

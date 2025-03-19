@@ -1,0 +1,19 @@
+[0.750s] Invoking command in '/home/isaacn/code/kraken/build/kraken': PYTHONPATH=/home/isaacn/code/kraken/build/kraken/prefix_override:/home/isaacn/code/kraken/install/kraken/lib/python3.6/site-packages: /usr/bin/python3 setup.py develop --editable --build-directory /home/isaacn/code/kraken/build/kraken/build --no-deps install_data
+[1.028s] running develop
+[1.132s] running egg_info
+[1.132s] writing kraken.egg-info/PKG-INFO
+[1.133s] writing dependency_links to kraken.egg-info/dependency_links.txt
+[1.133s] writing entry points to kraken.egg-info/entry_points.txt
+[1.133s] writing requirements to kraken.egg-info/requires.txt
+[1.133s] writing top-level names to kraken.egg-info/top_level.txt
+[1.171s] reading manifest file 'kraken.egg-info/SOURCES.txt'
+[1.173s] writing manifest file 'kraken.egg-info/SOURCES.txt'
+[1.175s] running build_ext
+[1.176s] Creating /home/isaacn/code/kraken/install/kraken/lib/python3.6/site-packages/kraken.egg-link (link to .)
+[1.177s] Installing depth_sensor script to /home/isaacn/code/kraken/install/kraken/lib/kraken
+[1.178s] Installing imu script to /home/isaacn/code/kraken/install/kraken/lib/kraken
+[1.178s] Installing mcu script to /home/isaacn/code/kraken/install/kraken/lib/kraken
+[1.178s] 
+[1.178s] Installed /home/isaacn/code/kraken/build/kraken
+[1.178s] running install_data
+[1.209s] Invoked command in '/home/isaacn/code/kraken/build/kraken' returned '0': PYTHONPATH=/home/isaacn/code/kraken/build/kraken/prefix_override:/home/isaacn/code/kraken/install/kraken/lib/python3.6/site-packages: /usr/bin/python3 setup.py develop --editable --build-directory /home/isaacn/code/kraken/build/kraken/build --no-deps install_data

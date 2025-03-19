@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+kraken/__init__.py
+kraken/depth_sensor_node.py
+kraken/imu_node.py
+kraken/motor_controller.py
+kraken.egg-info/PKG-INFO
+kraken.egg-info/SOURCES.txt
+kraken.egg-info/dependency_links.txt
+kraken.egg-info/entry_points.txt
+kraken.egg-info/requires.txt
+kraken.egg-info/top_level.txt
+kraken.egg-info/zip-safe
+resource/kraken
