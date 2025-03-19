@@ -1,3 +1,6 @@
+## Installing ROS2 Eloquent
+Follow the tutorial listed here: https://docs.ros.org/en/eloquent/Installation/Linux-Install-Debians.html
+
 ## Adding files to ROS project on the Jetson
 1. Add new ROS nodes to ~/kraken/ROS/src/kraken/kraken
 2. Add included files to ~kraken/ROS/src/kraken/kraken/include
