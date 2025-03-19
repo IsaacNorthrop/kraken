@@ -1,3 +1,3 @@
 import sys
 sys.real_prefix = sys.prefix
-sys.prefix = sys.exec_prefix = '/home/auvic/kraken/ROS/src/install/kraken'
+sys.prefix = sys.exec_prefix = '/home/isaacn/code/kraken/ROS/src/install/kraken'

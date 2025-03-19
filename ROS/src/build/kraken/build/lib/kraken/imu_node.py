@@ -7,7 +7,7 @@ import sys
 import threading
 import argparse as ap
 
-sys.path.append("/home/auvic/kraken/ROS/src/kraken/kraken/include")
+sys.path.append("/home/isaacn/code/kraken/ROS/src/kraken/kraken/include") 
 
 import rclpy
 from rclpy.node import Node

@@ -1,0 +1,23 @@
+[0.859s] Invoking command in '/home/isaacn/code/kraken/ROS/src/kraken': PYTHONPATH=/home/isaacn/code/kraken/ROS/src/build/kraken/prefix_override:/home/isaacn/code/kraken/ROS/src/install/kraken/lib/python3.6/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../build/kraken build --build-base /home/isaacn/code/kraken/ROS/src/build/kraken/build install --record /home/isaacn/code/kraken/ROS/src/build/kraken/install.log --install-scripts $base/lib/kraken --single-version-externally-managed
+[1.150s] running egg_info
+[1.151s] writing ../build/kraken/kraken.egg-info/PKG-INFO
+[1.153s] writing dependency_links to ../build/kraken/kraken.egg-info/dependency_links.txt
+[1.157s] writing entry points to ../build/kraken/kraken.egg-info/entry_points.txt
+[1.158s] writing requirements to ../build/kraken/kraken.egg-info/requires.txt
+[1.158s] writing top-level names to ../build/kraken/kraken.egg-info/top_level.txt
+[1.208s] reading manifest file '../build/kraken/kraken.egg-info/SOURCES.txt'
+[1.213s] writing manifest file '../build/kraken/kraken.egg-info/SOURCES.txt'
+[1.214s] running build
+[1.214s] running build_py
+[1.215s] running install
+[1.215s] running install_lib
+[1.215s] running install_data
+[1.218s] running install_egg_info
+[1.218s] removing '/home/isaacn/code/kraken/ROS/src/install/kraken/lib/python3.6/site-packages/kraken-0.0.0-py3.6.egg-info' (and everything under it)
+[1.218s] Copying ../build/kraken/kraken.egg-info to /home/isaacn/code/kraken/ROS/src/install/kraken/lib/python3.6/site-packages/kraken-0.0.0-py3.6.egg-info
+[1.218s] running install_scripts
+[1.247s] Installing depth_sensor script to /home/isaacn/code/kraken/ROS/src/install/kraken/lib/kraken
+[1.252s] Installing imu script to /home/isaacn/code/kraken/ROS/src/install/kraken/lib/kraken
+[1.252s] Installing mcu script to /home/isaacn/code/kraken/ROS/src/install/kraken/lib/kraken
+[1.253s] writing list of installed files to '/home/isaacn/code/kraken/ROS/src/build/kraken/install.log'
+[1.305s] Invoked command in '/home/isaacn/code/kraken/ROS/src/kraken' returned '0': PYTHONPATH=/home/isaacn/code/kraken/ROS/src/build/kraken/prefix_override:/home/isaacn/code/kraken/ROS/src/install/kraken/lib/python3.6/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../build/kraken build --build-base /home/isaacn/code/kraken/ROS/src/build/kraken/build install --record /home/isaacn/code/kraken/ROS/src/build/kraken/install.log --install-scripts $base/lib/kraken --single-version-externally-managed

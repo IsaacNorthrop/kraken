@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
             'depth_sensor = kraken.depth_sensor_node:main',
             'imu = kraken.imu_node:main',
+            'mcu = kraken.motor_controller:main',
         ],
     },
 )
